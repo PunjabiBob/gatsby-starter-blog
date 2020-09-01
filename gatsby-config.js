@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Bob Grewal`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Bob Grewal`,
+      summary: `Mergers & Acquisitions Advisor`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `An eventual web page`,
+    siteUrl: `https://www.bobgrewal.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `bobgrewal`,
     },
   },
   plugins: [
